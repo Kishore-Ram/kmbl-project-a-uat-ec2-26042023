@@ -34,7 +34,7 @@ kmbl_common_tags               = {
     "Project Owner"            = "Kavindra"
     "Name"                     = "kmbl-projecta-uat-ec2-26042023-1"
     "Environment"              = "uat"
-    "Remedy ID"                = "REQ0000012345"
+    "Remedy ID"                = "REQ0000054321"
 }
 
 ########################### Security group details #########################################################
