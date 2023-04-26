@@ -30,15 +30,15 @@ kmbl_instance_profile_name    = "AWS_SSM_Role"
 
 ############################## Common Tags #################################################################
 kmbl_common_tags               = {
-    "Project Name"             = "DKYC-PoC"
-    "Project Owner"            = "Ravi K"
-    "Name"                     = "kmbl-dkyc-uat-ec2-18042023-1"
-    #"Environment"              = "test"
-    #"Remedy ID"                = "REQ0000012345"
+    "Project Name"             = "Project A"
+    "Project Owner"            = "Kavindra"
+    "Name"                     = "kmbl-projecta-uat-ec2-26042023-1"
+    "Environment"              = "uat"
+    "Remedy ID"                = "REQ0000012345"
 }
 
 ########################### Security group details #########################################################
-kmbl_security_group_name      = "dkyc_uat_project_sg"
+kmbl_security_group_name      = "projecta_uat_project_sg"
 kmbl_arcos_security_group     = "sg-093aa2cacceec92ed"
 
 
